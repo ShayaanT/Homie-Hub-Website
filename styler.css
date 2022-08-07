@@ -1,0 +1,43 @@
+body {
+    background-color: #4F6367;
+}
+
+.logo1 {
+    margin-left: 47%;
+    margin-top: 10px;
+}
+
+.welcome {
+    color: white;
+}
+
+.general-headers {
+    margin-left: 35.4%;
+    padding: 10px;
+    color: white;
+}
+
+.text-box1 {
+    position: relative;
+    border-color: black;
+    margin-left: 480px;
+    margin-top: -20px;
+    width: 400px;
+    height: 30px;
+    background-color: #7A9E9F;
+}
+
+#continue-btn {
+    position: relative;
+    margin-left: 40%;
+    margin-top: 40px;
+    padding: 10px;
+    width: 280px;
+    background-color: #7A9E9F;
+    color: white;
+    border-radius: 8px;
+}
+
+#continue-btn:hover {
+    background-color: #4F6367;
+}
